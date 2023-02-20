@@ -1,0 +1,3 @@
+Documentatie
+
+Timer: https://support.kraken.com/hc/en-us/articles/206548367-What-is-the-API-call-rate-limit-
